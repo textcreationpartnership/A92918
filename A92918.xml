@@ -1,0 +1,560 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sence of the Oxford-Iunto, concerning the late treaty wherein the severall reasons are delivered, why they could not conclude a peace with the Parliament: and published for the satisfaction of the whole kingdome.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92918</idno>
+            <idno type="STC">Wing S2552</idno>
+            <idno type="STC">Thomason 669.f.10[20]</idno>
+            <idno type="STC">ESTC R210333</idno>
+            <idno type="EEBO-CITATION">99869142</idno>
+            <idno type="PROQUEST">99869142</idno>
+            <idno type="VID">162561</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92918)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162561)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f10[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sence of the Oxford-Iunto, concerning the late treaty wherein the severall reasons are delivered, why they could not conclude a peace with the Parliament: and published for the satisfaction of the whole kingdome.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>In verse -- "Give eare (beloved counterimen)".</note>
+                  <note>"Very rare. Each prominent person at Oxford is represented as in turn giving a reason why the Uxbridge Conference came to nothing.." Cf. Madan.</note>
+                  <note>Annotation on Thomason copy: "march: 6th 1644.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:162561:1" rendition="simple:additions"/>
+            <head>The Sence of the Oxford-Iunto, Concerning the late <hi>Treaty;</hi> wherein the ſeverall <hi>Reaſons</hi> are delivered, why they could not conclude a <hi>Peace</hi> with the <hi>Parliament:</hi> And Publiſhed for the <hi>Satisfaction</hi> of the whole <hi>Kingdome.</hi>
+            </head>
+            <lg>
+               <l>GIve eare (beloved Countrimen)</l>
+               <l>Who long ſo much for <hi>Peace,</hi>
+               </l>
+               <l>And gueſſe a <hi>Treaty</hi> th' only meanes</l>
+               <l>The <hi>Kingdome</hi> to releaſe:</l>
+               <l>Be not miſtaken thus to thinke;</l>
+               <l>For wee were ſent ſo farre</l>
+               <l>As <hi>
+                     <g ref="char:V">Ʋ</g>xbridge,</hi> but to ſweare and drinke,</l>
+               <l>And not to end the <hi>Warre.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Through our diſſembling <hi>Impudence</hi>
+               </l>
+               <l>Your hearts (we know) were full</l>
+               <l>Of <hi>Joy,</hi> and did us true beleeve,</l>
+               <l>Whereas we mean't to <hi>Gull:</hi>
+               </l>
+               <l>What though the <hi>Kingdome</hi> bleeding lie,</l>
+               <l>Yet <hi>Peace</hi> is out of ſeaſon,</l>
+               <l>And that <hi>Bug-beare</hi> we doe defie</l>
+               <l>For many a weighty reaſon.</l>
+            </lg>
+            <lg>
+               <l>Firſt, I'le no <hi>Peace,</hi> ſayes <hi>Rupert;</hi>
+               </l>
+               <l>Good <hi>
+                     <g ref="char:V">Ʋ</g>ncle,</hi> doe not thinke,</l>
+               <l>That I can leave your <hi>Kingdome</hi> ſo</l>
+               <l>While there is any <hi>chincke:</hi>
+               </l>
+               <l>You know for <hi>Plunder</hi> I did come</l>
+               <l>With <hi>German tag</hi> and <hi>rag;</hi>
+               </l>
+               <l>And I'le have more ere I goe home.</l>
+               <l>Againe unto the <hi>Hague.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Doe (Brother) doe, ſayes <hi>Maurice,</hi>
+               </l>
+               <l>I like the <hi>Humour</hi> deare,</l>
+               <l>And could contented be to have</l>
+               <l>The <hi>Warre</hi> laſt many a yeare:</l>
+               <l>Let's keep us ſtill on <hi>Engliſh</hi> ground,</l>
+               <l>And for our ſelves create</l>
+               <l>
+                  <hi>Poſſeſſions</hi> of as large a bound,</l>
+               <l>As the <hi>Palatinate.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then from his <hi>Pen</hi> ſtarts <hi>Digby,</hi>
+               </l>
+               <l>And cries 't was Princely ſpoken,</l>
+               <l>Since hope there was that <hi>France</hi> would ſend</l>
+               <l>
+                  <hi>Ten thouſand</hi> for a <hi>token</hi>
+               </l>
+               <l>Beſides, the Gallant <hi>Iriſh</hi> vow</l>
+               <l>To pawne their <hi>Praying Beads,</hi>
+               </l>
+               <l>Rather than we ſhould yield them now</l>
+               <l>A <hi>Peace,</hi> to loſe our <hi>Heads.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>'Tis true (my Sonne) quoth <hi>Briſtoll,</hi>
+               </l>
+               <l>Then write a <hi>Declaration</hi>
+               </l>
+               <l>Of our late <hi>Treating,</hi> which wee'l ſend</l>
+               <l>To <hi>cheate</hi> each forraine <hi>Nation:</hi>
+               </l>
+               <l>For we muſt make the world beleeve,</l>
+               <l>None more for <hi>Peace</hi> requeſted</l>
+               <l>Than we, or elſe they'l <hi>laugh in ſleeve,</hi>
+               </l>
+               <l>And we ſhall be deteſted.</l>
+            </lg>
+            <lg>
+               <l>But <hi>Brother</hi> mine, ſayes <hi>Cottington,</hi>
+               </l>
+               <l>I am <hi>Lord Treaſurer;</hi>
+               </l>
+               <l>Yet not one Penny can produce</l>
+               <l>For to maintaine the <hi>War:</hi>
+               </l>
+               <l>And now the tottering State of <hi>Spaine</hi>
+               </l>
+               <l>Can ſpare us no reliefe,</l>
+               <l>I live to beare the <hi>Bag</hi> in vaine,</l>
+               <l>And may die like a <hi>Thiefe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Fie, fie my Lord, then <hi>Wincheſter</hi>
+               </l>
+               <l>Bids him not to deſpaire,</l>
+               <l>And cheeres him with large <hi>Rodomonts,</hi>
+               </l>
+               <l>Much like a <hi>Wiſe mans</hi> Heire:</l>
+               <l>Il'e doe my beſt to keep off <hi>Peace,</hi>
+               </l>
+               <l>And ſtoutly put all Care by;</l>
+               <l>For if from <hi>Baſing</hi> they me chaſe,</l>
+               <l>Il'e run to my Lord of <hi>Darby.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Darby,</hi> He will doe any thing,</l>
+               <l>So they the War prolong,</l>
+               <l>If that his <hi>Counteſſe</hi> give him leave;</l>
+               <l>For ſhe at home's moſt ſtrong:</l>
+               <l>But if that <hi>Latham</hi> yielded be,</l>
+               <l>And they eſcape well can,</l>
+               <l>Her, and theſe two <hi>Wits,</hi> you may ſee</l>
+               <l>Reigne in the Ile of <hi>Man.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And I, Lord <hi>Paulet,</hi> would be glad</l>
+               <l>To have the War ſtill ſpun out,</l>
+               <l>Becauſe I know from <hi>Baſing-houſe</hi>
+               </l>
+               <l>The <hi>Foole</hi> at length will run out:</l>
+               <l>Then there to have Command in chiefe</l>
+               <l>I'me ſure will be my fate;</l>
+               <l>And like a good <hi>brotherly Thiefe,</hi>
+               </l>
+               <l>Beg him and his <hi>Eſtate.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>'Tis a good <hi>Chriſtian</hi> act (my Lord)</l>
+               <l>I <hi>Hopton</hi> doe allow it;</l>
+               <l>For I was once eſteem'd a <hi>Saint,</hi>
+               </l>
+               <l>As all the World does know it:</l>
+               <l>And for this <hi>Name</hi> more <hi>War</hi> I'le wage,</l>
+               <l>Till I it gaine from <hi>Rome;</hi>
+               </l>
+               <l>So <hi>Traitours</hi> ſhall a <hi>Pilgrimage</hi>
+               </l>
+               <l>Make yearely to my <hi>Tombe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And I, Duke <hi>Lennox,</hi> will contend,</l>
+               <l>As long as I doe live,</l>
+               <l>With <hi>Papiſts</hi> how to raiſe and <hi>ſtretch</hi>
+               </l>
+               <l>The Kings <hi>Prerogative:</hi>
+               </l>
+               <l>Then I may rage and domineere</l>
+               <l>Over my <hi>Countrymen,</hi>
+               </l>
+               <l>Or elſe I ſhall be ſham'd t'appear</l>
+               <l>In <hi>Scotland</hi> ere agen.</l>
+            </lg>
+            <lg>
+               <l>A figge (my Lord) ſayes <hi>Capel,</hi>
+               </l>
+               <l>The <hi>Scots</hi> we ſoon will beate;</l>
+               <l>However, let us goe and ſeeme</l>
+               <l>As if we meant to <hi>Treat:</hi>
+               </l>
+               <l>They cut my <hi>Woods,</hi> both <hi>Branch</hi> and <hi>Boughes,</hi>
+               </l>
+               <l>My <hi>Timber</hi> all is fallen,</l>
+               <l>As if they were to roſte the <hi>Cowes</hi>
+               </l>
+               <l>Which ever I have ſtollen.</l>
+            </lg>
+            <lg>
+               <l>And I (quoth <hi>Kingſton)</hi> am undone,</l>
+               <l>Except we fight it out;</l>
+               <l>Becauſe for <hi>Biſhops</hi> I did plead,</l>
+               <l>The <hi>Vulgar</hi> will me flout:</l>
+               <l>Beſides, my Father money lent</l>
+               <l>Unto the King great ſtore;</l>
+               <l>Unleſſe we ſlave the <hi>Parliament,</hi>
+               </l>
+               <l>I ne're ſhall ſee it more.</l>
+            </lg>
+            <lg>
+               <l>Who would not fight, cries <hi>Dunſmore,</hi>
+               </l>
+               <l>An <hi>Earle</hi> to be enſtil'd?</l>
+               <l>To loſe a <hi>Lordſhip, Hatton</hi> ſayes,</l>
+               <l>Would make a <hi>Courtter</hi> wild:</l>
+               <l>
+                  <hi>Culpepper,</hi> he growes hote i'th mouth,</l>
+               <l>Damnes <hi>Peace,</hi> as if he meant,</l>
+               <l>Rather than not to be a <hi>Lord,</hi>
+               </l>
+               <l>Fight to be King of <hi>Kent.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Sir <hi>Nicholas,</hi> he to <hi>treat</hi> will goe,</l>
+               <l>But ſwe<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>res he ſhall miſcarry;</l>
+               <l>The very thought of <hi>Peace</hi> will ſpoyle</l>
+               <l>Him for a <hi>Secretary.</hi>
+               </l>
+               <l>He with them thus conditions then,</l>
+               <l>That if they ſtay the longer,</l>
+               <l>For him to chooſe ſome other man</l>
+               <l>Of <hi>conſtitution</hi> ſtronger.</l>
+            </lg>
+            <lg>
+               <l>Then up a <hi>Bench</hi> of <hi>Lawyers</hi> ſtand,</l>
+               <l>And in their <hi>Judgement</hi> gave,</l>
+               <l>'Twas fit Sir <hi>Edward Nicholas</hi> might</l>
+               <l>His <hi>Habeas Corpus</hi> have:</l>
+               <l>
+                  <hi>Ned Hide,</hi> and <hi>Laene,</hi> they were the chiefe,</l>
+               <l>I need to name no more,</l>
+               <l>Who for their <hi>Knighthoods</hi> ſtood ſo ſtiffe,</l>
+               <l>And ſhut <hi>Peace</hi> out of dore.</l>
+            </lg>
+            <lg>
+               <l>But all to fight for the <hi>knowne Lawes,</hi>
+               </l>
+               <l>As <hi>Littleton</hi> maintaines;</l>
+               <l>Who ſtrove to ſteale away the <hi>Seale,</hi>
+               </l>
+               <l>Yet got nothing for his paines:</l>
+               <l>For when the man to <hi>Oxford</hi> came.</l>
+               <l>They fell to ſweare and curſe,</l>
+               <l>And askt him if he did not ſhame</l>
+               <l>To bring an empty <hi>Purſe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But he at length in favour crept</l>
+               <l>Among the <hi>Medley Rout,</hi>
+               </l>
+               <l>And is againſt the name of <hi>Peace</hi>
+               </l>
+               <l>As zealous and as ſtout:</l>
+               <l>An't pleaſe your <hi>Majeſty,</hi> ſayes he,</l>
+               <l>If wiſely you will deale,</l>
+               <l>The <hi>Ordnance</hi> ſtill muſt mounted be,</l>
+               <l>They will make good the <hi>Seale.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And I (my Liege) ſayes <hi>Heath,</hi> affirme</l>
+               <l>None better can than theſe,</l>
+               <l>Reſtore againe the <hi>Chancerie,</hi>
+               </l>
+               <l>Your <hi>Bench,</hi> or <hi>Common Pleas:</hi>
+               </l>
+               <l>Fight on, by <hi>Law</hi> Il'e make it good,</l>
+               <l>Pull down the <hi>Senate's</hi> pride;</l>
+               <l>It is not fit a <hi>Treaty</hi> ſhould</l>
+               <l>This difference decide.</l>
+            </lg>
+            <lg>
+               <l>Then ſpake <hi>Armagh,</hi> if <hi>Law</hi> it be,</l>
+               <l>I'le prove it <hi>Goſpel</hi> too,</l>
+               <l>By ſuch a knotty <hi>Syllogiſme</hi>
+               </l>
+               <l>As no man ſhall undoe:</l>
+               <l>In <hi>Biſhops</hi> breaſts all truth doth reſt,</l>
+               <l>Scorne <hi>Treating</hi> then, and come;</l>
+               <l>Wee'l give each man a <hi>hallow'd creſt,</hi>
+               </l>
+               <l>And Conſecrated <hi>drumme.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And I (quoth <hi>Duppa)</hi> doe proteſt,</l>
+               <l>That they which but begin</l>
+               <l>To thinke of pulling <hi>Biſhops downe</hi>
+               </l>
+               <l>Commit a heynous ſin:</l>
+               <l>What a curſed thing then <hi>Treating</hi> is,</l>
+               <l>How odious is <hi>Peace,</hi>
+               </l>
+               <l>Which envies <hi>Church-men</hi> worldly bliſs,</l>
+               <l>Great honours, pride, and eaſe!</l>
+            </lg>
+            <lg>
+               <l>And <hi>Stewart</hi> vowes hee'l be content</l>
+               <l>Much rather ſoone to die,</l>
+               <l>Than let his <hi>Conſcience</hi> witneſſe beare</l>
+               <l>Unto <hi>Presbyterie:</hi>
+               </l>
+               <l>What though it does appeare more right,</l>
+               <l>I never will confeſſe?</l>
+               <l>Let's <hi>Treat</hi> in ſhew, breake off, and fight,</l>
+               <l>Upon advantages.</l>
+            </lg>
+            <lg>
+               <l>But harke ye (Sirs) ſayes <hi>Dorſet,</hi>
+               </l>
+               <l>Doe any thing you pleaſe;</l>
+               <l>Yet for one reaſon I deſire,</l>
+               <l>That we might have a <hi>Peace:</hi>
+               </l>
+               <l>I cannot act a <hi>Souldiers</hi> part,</l>
+               <l>Nor freezing lie in <hi>Trenches;</hi>
+               </l>
+               <l>But wiſh my ſelfe with all my heart</l>
+               <l>At <hi>Chelſey</hi> with my <hi>Wenches.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Zounds, a <hi>Sedan,</hi> cries <hi>Goring,</hi>
+               </l>
+               <l>To cage this piece of ſloth;</l>
+               <l>
+                  <hi>Dammee,</hi> but one word more of <hi>Peace,</hi>
+               </l>
+               <l>I'le ſtabbe him with an <hi>Oath:</hi>
+               </l>
+               <l>My Father was in dayes of yore</l>
+               <l>A <hi>Monopolizing</hi> vermin,</l>
+               <l>But now is glad to keep the dore,</l>
+               <l>And <hi>cringe</hi> to <hi>Harry Iermin.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That was a gallant trade at <hi>Court.</hi>
+               </l>
+               <l>Then ſaid <hi>Endymion Porter,</hi>
+               </l>
+               <l>When <hi>Subjects</hi> pockets we could fiſh,</l>
+               <l>And clip their purſe ſtrings ſhorter:</l>
+               <l>But now the <hi>blocke</hi> runnes in my mind</l>
+               <l>When I dreame of <hi>Peace</hi> in bed;</l>
+               <l>Then 'wake, and feele, yet nothing find</l>
+               <l>About mee but my head.</l>
+            </lg>
+            <lg>
+               <l>O monſtrous! then cries <hi>Windebanke,</hi>
+               </l>
+               <l>That dreames ſhould prove ſo true;</l>
+               <l>I feare then I ſhall be undone</l>
+               <l>By <hi>Peace</hi> as well as you:</l>
+               <l>What though I am a <hi>Ieſuite,</hi>
+               </l>
+               <l>(God bleſſe our good Queene <hi>Mary)</hi>
+               </l>
+               <l>Yet if the <hi>Round-heads</hi> we out-fight,</l>
+               <l>I ſhall ſtill be <hi>Secretary.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And I, <hi>Tom. Lunsford,</hi> hope to be</l>
+               <l>
+                  <hi>Lieutenant</hi> of the <hi>Tower,</hi>
+               </l>
+               <l>Then I ſhall have the <hi>Citizens</hi>
+               </l>
+               <l>Againe within my power:</l>
+               <l>And like tame <hi>Slaves,</hi> I will them teach</l>
+               <l>An iron chaine to weare;</l>
+               <l>The <hi>Ordnance</hi> alſo ſhall ſoone reach</l>
+               <l>As farre as <hi>Weſtminſter.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But ſoft there <hi>(Tom)</hi> quoth <hi>Byron,</hi>
+               </l>
+               <l>Thou art yet but a <hi>Knight;</hi>
+               </l>
+               <l>For murthers <hi>coole,</hi> I <hi>Lorded</hi> was,</l>
+               <l>After the end o'th' fight:</l>
+               <l>Then I may be <hi>Lieutenant</hi> made</l>
+               <l>Rather than thee, I hope,</l>
+               <l>Since I more cruell am, if not</l>
+               <l>Prevented by a <hi>Rope.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I feare not <hi>Ropes,</hi> ſayes <hi>Langdale,</hi>
+               </l>
+               <l>Hanging to mee's a jeſt;</l>
+               <l>I'le venture <hi>necke</hi> at any time</l>
+               <l>To th' weight of my thin <hi>cheſt:</hi>
+               </l>
+               <l>If <hi>Peace</hi> come, I will yield thus farre,</l>
+               <l>And give them many thankes;</l>
+               <l>Yet one thing by the way I barre,</l>
+               <l>All pulling by the <hi>Shankes.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>O Lord, how dare you venture ſo,</l>
+               <l>Sir <hi>Skellum Grenvile</hi> cries!</l>
+               <l>The very thought of it doth make</l>
+               <l>Blood in my face to riſe:</l>
+               <l>
+                  <hi>Peace</hi> is a ſweet ſoft name to ſome,</l>
+               <l>But to me it ſounds like <hi>Thunder,</hi>
+               </l>
+               <l>More terrible than a <hi>Plymouth</hi> Drum,</l>
+               <l>And will rob me of my <hi>Plunder.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>A <hi>Skiffe,</hi> a <hi>Skiffe,</hi> baules <hi>Dives,</hi>
+               </l>
+               <l>If ye talk more of <hi>Peace;</hi>
+               </l>
+               <l>Hells torments light on ev'ry wretch</l>
+               <l>That prayes the <hi>War</hi> might ceaſe:</l>
+               <l>For then my Brother <hi>George,</hi> and I,</l>
+               <l>After the <hi>Queen</hi> muſt dance,</l>
+               <l>And live on <hi>Popiſh</hi> Charitie,</l>
+               <l>In <hi>Italy, Spaine,</hi> or <hi>France.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>You ſee (beloved Countrimen)</l>
+               <l>How <hi>Peace</hi> is out of ſeaſon;</l>
+               <l>For which you have the <hi>Junto's</hi> Sence,</l>
+               <l>And each <hi>Commanders</hi> reaſon:</l>
+               <l>Then pray you doe not take it ill</l>
+               <l>W<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you deceiv'd by <hi>Treating;</hi>
+               </l>
+               <l>
+                  <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t you may have <hi>Peace,</hi> if you will</l>
+               <l>But give us a ſound <hi>Beating.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
